@@ -12,7 +12,7 @@ let jokers = [
       "Scored {C:attention}Mult Cards{} give {C:chips}+30{} Chips", 
       "Scored {C:attention}Bonus Cards{} give {C:mult}+4{} Mult"
     ],
-    image_url: "img/conduit.png",
+    image_url: "img/Conduit.png",
     rarity: "Common"
   },
   {
@@ -54,7 +54,7 @@ let jokers = [
     text: [
       "{X:mult,C:white}X3{} Mult if scored hand contains a {C:attention}2{} and an {C:attention}8{}"
     ],
-    image_url: "img/impossible cube.png",
+    image_url: "img/Impossible cube.png",
     rarity: "Uncommon"
   },
   {
